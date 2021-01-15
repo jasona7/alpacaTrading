@@ -5,6 +5,19 @@
 
 > Python bracket order for alpaca order api
 
+## Usage
+
+**app.py**
+Edit the take_profit and stop_loss variabes to set a gain/loss limit for orders (ex. below 5% gain, and 2% stop loss)
+```
+"take_profit": {
+            "limit_price": webhook_message['close'] * 1.05
+        },
+        "stop_loss": {
+            "stop_price": webhook_message['close'] * 0.98,
+        }
+```
+
 ## Author
 
 👤 **Jason Alloway**
@@ -14,7 +27,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+PLZ give a ⭐️ if this code was helpful!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
