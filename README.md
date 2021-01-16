@@ -6,6 +6,10 @@
 
 > Python bracket order for alpaca order api
 
+## Requirements
+* Python 3.6 or higher
+* AWS Chalice CLI
+
 ## Usage
 
 **app.py**
