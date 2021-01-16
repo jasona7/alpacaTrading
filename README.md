@@ -6,6 +6,8 @@
 
 > Python bracket order for alpaca order api
 
+![Screenshot](python-aws-alpaca.png)
+
 ## Requirements
 * Python 3.6 or higher
 * AWS Chalice CLI
