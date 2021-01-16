@@ -3,19 +3,19 @@
     {
       "name": "default-role",
       "resource_type": "iam_role",
-      "role_arn": "arn:aws:iam::773465154107:role/tradingview-webhook-alerts-dev",
+      "role_arn": "****",
       "role_name": "tradingview-webhook-alerts-dev"
     },
     {
       "name": "api_handler",
       "resource_type": "lambda_function",
-      "lambda_arn": "arn:aws:lambda:us-east-1:773465154107:function:tradingview-webhook-alerts-dev"
+      "lambda_arn": "****"
     },
     {
       "name": "rest_api",
       "resource_type": "rest_api",
-      "rest_api_id": "6ubtq97wp2",
-      "rest_api_url": "https://6ubtq97wp2.execute-api.us-east-1.amazonaws.com/api/"
+      "rest_api_id": "****",
+      "rest_api_url": "****"
     }
   ],
   "schema_version": "2.0",
