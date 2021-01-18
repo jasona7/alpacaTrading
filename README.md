@@ -25,6 +25,24 @@ Edit the limit_price and stop_price variabes to set a gain/loss limit for orders
         }
 ```
 
+**TradingView Alert JSON BODY**
+```
+{
+    "open": {{open}},
+    "high": {{high}},
+    "low": {{low}},
+    "close": {{close}},
+    "exchange": "{{exchange}}",
+    "ticker": "{{ticker}}",
+    "volume": {{volume}},
+    "time": "{{time}}",
+    "timenow": "{{timenow}}"
+}
+
+```
+
+
+
 ## Author
 
 👤 **Jason Alloway**
