@@ -11,6 +11,7 @@
 ## Requirements
 * Python 3.6 or higher
 * AWS Chalice CLI
+* TradingView PRO
 
 ## Usage
 
