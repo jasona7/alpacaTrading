@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to bracketOrder 👋</h1>
+<h1 align="center">Welcome to alpacaTrading 👋</h1>
 <h2 align="center">Automated Alpaca Trading API Order entry</h2>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
