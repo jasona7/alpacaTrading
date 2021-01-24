@@ -11,7 +11,7 @@
 ## Requirements
 * Python 3.6 or higher
 * [AWS Chalice](https://github.com/aws/chalice)
-* TradingView PRO
+* [TradingView PRO](https://www.tradingview.com)
 
 ## Usage
 
